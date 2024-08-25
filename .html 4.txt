@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> <b> <big> html Form </big> </b></title>
+<body>
+<tr>background-color;blue;
+<th><i>Id</i></th>
+<td>  </td>
+</tr>
+<tr>background-color;red;
+<th><i>Name</i></th> 
+<td></td>
+</tr>
+<tr>background-color;green;
+<th><i>Mob.No</i></th>
+<td>  </td>
+</tr>
+</body>
+</html>

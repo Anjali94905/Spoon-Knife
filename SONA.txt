@@ -1,0 +1,14 @@
+<html>
+<head>
+<body>
+<tital>Am learing Html</tital>
+<h1>my first heading</h>
+<h2>my secand heading</h>
+.
+.
+.
+<h6>my last heading</h>
+<p>my first paragaph</p>
+</body>
+</head>
+</html>
